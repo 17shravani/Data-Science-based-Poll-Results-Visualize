@@ -39,8 +39,5 @@ VoxIntel is designed for:
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Please open an issue or PR for feedback.
-
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
