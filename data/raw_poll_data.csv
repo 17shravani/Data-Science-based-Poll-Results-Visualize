@@ -1,0 +1,501 @@
+Record_ID,Timestamp,Region,Age_Group,Gender,Product_Interests,Satisfaction_Score,Feedback,Theme
+VOX-10000,2026-04-17 03:30:20.715713,North America,55+,Female,VoxWatch Pro,2,Support was unhelpful.,Support
+VOX-10001,2026-02-13 19:46:20.715713,Asia-Pacific,25-34,Female,VoxPhone Elite,5,A smart investment.,Price
+VOX-10002,2026-04-02 20:07:20.715713,Asia-Pacific,25-34,Prefer not to say,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10003,2026-01-23 13:51:20.715713,Europe,55+,Prefer not to say,VoxTab Air,3,Took some time but solved.,Support
+VOX-10004,2026-02-27 21:45:20.715713,Asia-Pacific,45-54,Prefer not to say,VoxPhone Elite,4,Premium feel and worth every penny.,Price
+VOX-10005,2026-03-05 04:00:20.715713,Asia-Pacific,55+,Prefer not to say,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10006,2026-03-01 16:47:20.715713,Europe,18-24,Male,VoxWatch Pro,2,Battery drains way too fast.,Battery
+VOX-10007,2026-03-05 18:22:20.715713,Asia-Pacific,55+,Male,VoxPhone Elite,4,Premium feel and worth every penny.,Price
+VOX-10008,2026-01-27 16:51:20.715713,Europe,18-24,Male,VoxPhone Elite,4,Absolutely love the performance!,Performance
+VOX-10009,2026-01-25 00:51:20.715713,North America,25-34,Female,VoxTab Air,4,Seamless integration with my workflow.,Performance
+VOX-10010,2026-02-23 15:06:20.715713,Latin America,45-54,Female,VoxWatch Pro,2,Poor battery life compared to competitors.,Battery
+VOX-10011,2026-04-17 21:28:20.715713,Europe,35-44,Male,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10012,2026-03-13 21:44:20.715713,Asia-Pacific,35-44,Non-binary,VoxPhone Elite,4,Premium feel and worth every penny.,Price
+VOX-10013,2026-03-28 00:00:20.715713,Europe,25-34,Non-binary,VoxWatch Pro,3,Good for basic tasks.,Performance
+VOX-10014,2026-01-25 08:02:20.715713,Asia-Pacific,35-44,Non-binary,VoxPhone Elite,4,Exceptional customer support experience.,Support
+VOX-10015,2026-02-16 11:19:20.715713,Europe,25-34,Non-binary,VoxPhone Elite,4,Premium feel and worth every penny.,Price
+VOX-10016,2026-03-13 12:04:20.715713,Latin America,25-34,Female,VoxWatch Pro,4,The battery life is revolutionary.,Battery
+VOX-10017,2026-03-11 14:22:20.715713,Europe,35-44,Non-binary,VoxTab Air,3,Standard battery performance.,Battery
+VOX-10018,2026-03-14 04:33:20.715713,Asia-Pacific,25-34,Prefer not to say,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10019,2026-02-27 19:16:20.715713,Europe,45-54,Female,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10020,2026-03-19 15:18:20.715713,North America,25-34,Female,VoxTab Air,4,Blazing fast speeds.,Performance
+VOX-10021,2026-04-01 11:35:20.715713,Latin America,18-24,Prefer not to say,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10022,2026-03-04 21:45:20.715713,Europe,45-54,Male,VoxWatch Pro,3,Fairly priced.,Price
+VOX-10023,2026-03-19 08:32:20.715713,North America,45-54,Female,VoxWatch Pro,2,Battery drains way too fast.,Battery
+VOX-10024,2026-02-14 23:11:20.715713,Middle East,45-54,Male,VoxPhone Elite,5,Blazing fast speeds.,Performance
+VOX-10025,2026-04-07 03:56:20.715713,Asia-Pacific,35-44,Prefer not to say,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10026,2026-02-05 03:37:20.715713,Middle East,45-54,Prefer not to say,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10027,2026-03-14 11:47:20.715713,Asia-Pacific,35-44,Female,VoxTab Air,5,A smart investment.,Price
+VOX-10028,2026-01-22 07:25:20.715713,Latin America,45-54,Male,VoxTab Air,4,Incredible power management.,Battery
+VOX-10029,2026-04-06 04:03:20.715713,Europe,45-54,Male,VoxTab Air,5,Incredible power management.,Battery
+VOX-10030,2026-02-12 04:03:20.715713,Middle East,55+,Male,VoxWatch Pro,2,Laggy and slow.,Performance
+VOX-10031,2026-01-20 09:37:20.715713,North America,25-34,Prefer not to say,VoxWatch Pro,4,Great value for a flagship device.,Price
+VOX-10032,2026-01-30 00:20:20.715713,Europe,35-44,Male,VoxWatch Pro,3,Regular market pricing.,Price
+VOX-10033,2026-04-11 07:13:20.715713,Middle East,25-34,Male,VoxPhone Elite,4,Absolutely love the performance!,Performance
+VOX-10034,2026-02-15 17:51:20.715713,Latin America,45-54,Non-binary,VoxTab Air,4,Absolutely love the performance!,Performance
+VOX-10035,2026-01-20 01:16:20.715713,Middle East,35-44,Non-binary,VoxWatch Pro,4,Exceptional customer support experience.,Support
+VOX-10036,2026-04-15 05:15:20.715713,Asia-Pacific,25-34,Male,VoxTab Air,5,The battery life is revolutionary.,Battery
+VOX-10037,2026-02-14 14:17:20.715713,Europe,45-54,Male,VoxWatch Pro,2,Support was unhelpful.,Support
+VOX-10038,2026-03-17 22:10:20.715713,Middle East,35-44,Female,VoxPhone Elite,4,Seamless integration with my workflow.,Performance
+VOX-10039,2026-03-07 23:58:20.715713,North America,25-34,Prefer not to say,VoxPhone Elite,4,A smart investment.,Price
+VOX-10040,2026-04-12 13:42:20.715713,Asia-Pacific,55+,Prefer not to say,VoxPhone Elite,5,A smart investment.,Price
+VOX-10041,2026-04-17 03:14:20.715713,Latin America,35-44,Non-binary,VoxTab Air,5,Seamless integration with my workflow.,Performance
+VOX-10042,2026-02-12 14:16:20.715713,Latin America,45-54,Female,VoxTab Air,5,Exceptional customer support experience.,Support
+VOX-10043,2026-03-07 15:10:20.715713,North America,25-34,Male,VoxWatch Pro,2,Overpriced for what it offers.,Price
+VOX-10044,2026-03-12 23:25:20.715713,Latin America,25-34,Prefer not to say,VoxPhone Elite,5,Blazing fast speeds.,Performance
+VOX-10045,2026-04-17 00:30:20.715713,Europe,55+,Prefer not to say,VoxTab Air,3,Good value for money but nothing special.,Price
+VOX-10046,2026-02-14 17:32:20.715713,Asia-Pacific,55+,Non-binary,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10047,2026-04-19 09:17:20.715713,Latin America,25-34,Female,VoxWatch Pro,1,Needs constant charging.,Battery
+VOX-10048,2026-01-22 09:22:20.715713,Latin America,25-34,Prefer not to say,VoxTab Air,4,Incredible power management.,Battery
+VOX-10049,2026-01-24 02:51:20.715713,Asia-Pacific,55+,Male,VoxWatch Pro,4,Premium feel and worth every penny.,Price
+VOX-10050,2026-02-06 18:36:20.715713,North America,18-24,Female,VoxTab Air,5,Great value for a flagship device.,Price
+VOX-10051,2026-03-03 18:55:20.715713,Asia-Pacific,25-34,Male,VoxPhone Elite,4,Blazing fast speeds.,Performance
+VOX-10052,2026-04-05 20:24:20.715713,Middle East,18-24,Male,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10053,2026-02-17 21:34:20.715713,Europe,25-34,Prefer not to say,VoxWatch Pro,2,Overpriced for what it offers.,Price
+VOX-10054,2026-03-03 13:36:20.715713,Asia-Pacific,18-24,Non-binary,VoxPhone Elite,4,A smart investment.,Price
+VOX-10055,2026-01-22 13:49:20.715713,Middle East,55+,Female,VoxWatch Pro,3,Took some time but solved.,Support
+VOX-10056,2026-03-09 17:34:20.715713,Latin America,35-44,Non-binary,VoxTab Air,4,Incredible power management.,Battery
+VOX-10057,2026-02-03 05:08:20.715713,Middle East,35-44,Non-binary,VoxWatch Pro,4,Exceptional customer support experience.,Support
+VOX-10058,2026-02-28 06:20:20.715713,Latin America,55+,Female,VoxWatch Pro,2,Frequent software glitches.,Performance
+VOX-10059,2026-02-06 14:39:20.715713,North America,55+,Non-binary,VoxWatch Pro,2,Support was unhelpful.,Support
+VOX-10060,2026-03-21 19:19:20.715713,Asia-Pacific,55+,Prefer not to say,VoxTab Air,4,A smart investment.,Price
+VOX-10061,2026-02-11 11:16:20.715713,Latin America,25-34,Non-binary,VoxWatch Pro,2,Extremely disappointed with the build.,Performance
+VOX-10062,2026-03-08 05:03:20.715713,North America,25-34,Non-binary,VoxWatch Pro,3,Does the job but needs daily charging.,Battery
+VOX-10063,2026-03-23 02:42:20.715713,Middle East,35-44,Female,VoxTab Air,4,The battery life is revolutionary.,Battery
+VOX-10064,2026-02-16 03:07:20.715713,North America,25-34,Non-binary,VoxPhone Elite,4,Helpful and quick response times.,Support
+VOX-10065,2026-03-13 18:29:20.715713,Middle East,45-54,Non-binary,VoxTab Air,4,Blazing fast speeds.,Performance
+VOX-10066,2026-03-04 00:41:20.715713,Middle East,45-54,Prefer not to say,VoxWatch Pro,2,Needs constant charging.,Battery
+VOX-10067,2026-03-01 08:33:20.715713,North America,35-44,Non-binary,VoxTab Air,4,Great value for a flagship device.,Price
+VOX-10068,2026-02-21 17:26:20.715713,Asia-Pacific,18-24,Female,VoxPhone Elite,4,Great value for a flagship device.,Price
+VOX-10069,2026-02-03 16:38:20.715713,North America,55+,Non-binary,VoxWatch Pro,3,Standard battery performance.,Battery
+VOX-10070,2026-02-03 01:12:20.715713,Europe,18-24,Prefer not to say,VoxWatch Pro,2,Long wait times and no solution.,Support
+VOX-10071,2026-02-28 15:59:20.715713,Middle East,18-24,Male,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10072,2026-02-09 20:04:20.715713,North America,25-34,Female,VoxTab Air,3,Took some time but solved.,Support
+VOX-10073,2026-03-28 06:12:20.715713,North America,55+,Non-binary,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10074,2026-04-17 23:49:20.715713,Asia-Pacific,35-44,Non-binary,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10075,2026-04-04 06:10:20.715713,North America,35-44,Prefer not to say,VoxTab Air,4,Seamless integration with my workflow.,Performance
+VOX-10076,2026-03-03 02:22:20.715713,Asia-Pacific,25-34,Non-binary,VoxPhone Elite,4,Great value for a flagship device.,Price
+VOX-10077,2026-03-14 05:53:20.715713,Europe,18-24,Male,VoxPhone Elite,5,Absolutely love the performance!,Performance
+VOX-10078,2026-01-29 01:56:20.715713,Europe,55+,Female,VoxWatch Pro,1,Extremely disappointed with the build.,Performance
+VOX-10079,2026-02-11 03:06:20.715713,Latin America,18-24,Prefer not to say,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10080,2026-01-31 19:19:20.715713,Europe,55+,Non-binary,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10081,2026-03-11 21:29:20.715713,Europe,55+,Prefer not to say,VoxTab Air,4,Absolutely love the performance!,Performance
+VOX-10082,2026-01-27 14:56:20.715713,North America,25-34,Prefer not to say,VoxTab Air,5,A smart investment.,Price
+VOX-10083,2026-03-28 20:50:20.715713,Europe,45-54,Female,VoxPhone Elite,4,Premium feel and worth every penny.,Price
+VOX-10084,2026-02-14 12:17:20.715713,North America,55+,Prefer not to say,VoxWatch Pro,1,Long wait times and no solution.,Support
+VOX-10085,2026-04-10 01:30:20.715713,Latin America,35-44,Female,VoxPhone Elite,4,A smart investment.,Price
+VOX-10086,2026-02-26 19:00:20.715713,Asia-Pacific,18-24,Prefer not to say,VoxPhone Elite,5,Blazing fast speeds.,Performance
+VOX-10087,2026-02-09 20:41:20.715713,Middle East,25-34,Non-binary,VoxWatch Pro,3,Battery is average.,Battery
+VOX-10088,2026-02-08 17:17:20.715713,Latin America,25-34,Non-binary,VoxPhone Elite,5,Blazing fast speeds.,Performance
+VOX-10089,2026-04-06 13:28:20.715713,Asia-Pacific,45-54,Non-binary,VoxPhone Elite,4,Absolutely love the performance!,Performance
+VOX-10090,2026-03-24 21:25:20.715713,Asia-Pacific,45-54,Female,VoxPhone Elite,5,A smart investment.,Price
+VOX-10091,2026-02-28 14:11:20.715713,Europe,45-54,Male,VoxPhone Elite,4,The battery life is revolutionary.,Battery
+VOX-10092,2026-02-13 02:51:20.715713,North America,35-44,Prefer not to say,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10093,2026-02-17 08:55:20.715713,Europe,35-44,Female,VoxTab Air,3,Good for basic tasks.,Performance
+VOX-10094,2026-02-01 01:08:20.715713,Europe,18-24,Prefer not to say,VoxPhone Elite,4,The battery life is revolutionary.,Battery
+VOX-10095,2026-02-24 14:53:20.715713,Europe,35-44,Prefer not to say,VoxTab Air,4,Lasts all day even with heavy use.,Battery
+VOX-10096,2026-04-16 22:53:20.715713,Asia-Pacific,55+,Prefer not to say,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10097,2026-01-27 09:36:20.715713,Latin America,35-44,Male,VoxPhone Elite,4,Incredible power management.,Battery
+VOX-10098,2026-04-07 22:57:20.715713,Middle East,55+,Prefer not to say,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10099,2026-03-06 04:41:20.715713,North America,18-24,Male,VoxTab Air,3,Standard support quality.,Support
+VOX-10100,2026-02-08 01:04:20.715713,Middle East,35-44,Non-binary,VoxTab Air,4,The battery life is revolutionary.,Battery
+VOX-10101,2026-03-22 08:04:20.715713,Middle East,55+,Male,VoxTab Air,4,Blazing fast speeds.,Performance
+VOX-10102,2026-03-14 16:32:20.715713,Middle East,18-24,Non-binary,VoxWatch Pro,4,Helpful and quick response times.,Support
+VOX-10103,2026-04-12 16:15:20.715713,Europe,55+,Non-binary,VoxWatch Pro,3,Fairly priced.,Price
+VOX-10104,2026-03-26 01:11:20.715713,North America,35-44,Male,VoxWatch Pro,4,Seamless integration with my workflow.,Performance
+VOX-10105,2026-03-29 22:57:20.715713,Middle East,45-54,Female,VoxTab Air,3,Does the job but needs daily charging.,Battery
+VOX-10106,2026-03-19 20:13:20.715713,Asia-Pacific,45-54,Male,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10107,2026-03-02 14:37:20.715713,North America,35-44,Female,VoxWatch Pro,3,Good for basic tasks.,Performance
+VOX-10108,2026-02-13 09:00:20.715713,Latin America,18-24,Female,VoxWatch Pro,4,Great value for a flagship device.,Price
+VOX-10109,2026-03-18 09:12:20.715713,Asia-Pacific,45-54,Prefer not to say,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10110,2026-02-01 19:16:20.715713,North America,55+,Non-binary,VoxWatch Pro,5,Helpful and quick response times.,Support
+VOX-10111,2026-04-02 01:26:20.715713,Europe,18-24,Female,VoxPhone Elite,4,Exceptional customer support experience.,Support
+VOX-10112,2026-04-13 11:47:20.715713,Middle East,55+,Prefer not to say,VoxWatch Pro,2,Poor battery life compared to competitors.,Battery
+VOX-10113,2026-03-12 07:47:20.715713,Asia-Pacific,55+,Male,VoxPhone Elite,4,Absolutely love the performance!,Performance
+VOX-10114,2026-02-25 17:29:20.715713,North America,55+,Non-binary,VoxTab Air,5,Exceptional customer support experience.,Support
+VOX-10115,2026-02-15 19:57:20.715713,North America,25-34,Female,VoxTab Air,4,Helpful and quick response times.,Support
+VOX-10116,2026-03-11 06:46:20.715713,Middle East,25-34,Female,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10117,2026-04-02 01:59:20.715713,Europe,18-24,Non-binary,VoxWatch Pro,3,Standard support quality.,Support
+VOX-10118,2026-02-21 20:47:20.715713,North America,35-44,Female,VoxTab Air,3,Standard support quality.,Support
+VOX-10119,2026-03-01 18:43:20.715713,Middle East,45-54,Non-binary,VoxTab Air,4,Incredible power management.,Battery
+VOX-10120,2026-01-29 12:57:20.715713,Latin America,18-24,Non-binary,VoxTab Air,4,Incredible power management.,Battery
+VOX-10121,2026-01-26 10:56:20.715713,Middle East,55+,Male,VoxTab Air,3,Took some time but solved.,Support
+VOX-10122,2026-03-12 10:36:20.715713,Latin America,18-24,Non-binary,VoxTab Air,3,Good value for money but nothing special.,Price
+VOX-10123,2026-01-28 19:28:20.715713,North America,25-34,Non-binary,VoxWatch Pro,3,Does the job but needs daily charging.,Battery
+VOX-10124,2026-02-16 12:01:20.715713,Middle East,45-54,Female,VoxWatch Pro,4,A smart investment.,Price
+VOX-10125,2026-04-14 08:34:20.715713,Asia-Pacific,35-44,Prefer not to say,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10126,2026-04-14 07:20:20.715713,Asia-Pacific,25-34,Prefer not to say,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10127,2026-01-29 16:58:20.715713,Europe,55+,Non-binary,VoxWatch Pro,3,Regular market pricing.,Price
+VOX-10128,2026-03-18 19:16:20.715713,Middle East,25-34,Female,VoxPhone Elite,4,Incredible power management.,Battery
+VOX-10129,2026-02-19 02:54:20.715713,Asia-Pacific,35-44,Non-binary,VoxTab Air,5,Helpful and quick response times.,Support
+VOX-10130,2026-02-14 10:42:20.715713,Middle East,25-34,Male,VoxWatch Pro,3,Fairly priced.,Price
+VOX-10131,2026-04-07 05:31:20.715713,Latin America,25-34,Male,VoxPhone Elite,5,Blazing fast speeds.,Performance
+VOX-10132,2026-02-02 03:33:20.715713,Europe,55+,Male,VoxPhone Elite,5,Absolutely love the performance!,Performance
+VOX-10133,2026-01-25 08:27:20.715713,North America,25-34,Male,VoxTab Air,4,Seamless integration with my workflow.,Performance
+VOX-10134,2026-03-15 21:36:20.715713,Middle East,55+,Prefer not to say,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10135,2026-01-22 00:29:20.715713,Latin America,25-34,Male,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10136,2026-02-10 06:45:20.715713,Europe,18-24,Female,VoxWatch Pro,3,Fairly priced.,Price
+VOX-10137,2026-02-19 09:24:20.715713,Europe,45-54,Prefer not to say,VoxWatch Pro,2,Hidden costs and expensive repairs.,Price
+VOX-10138,2026-01-30 17:14:20.715713,Europe,45-54,Female,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10139,2026-02-05 04:42:20.715713,Middle East,55+,Male,VoxTab Air,5,The battery life is revolutionary.,Battery
+VOX-10140,2026-01-26 12:51:20.715713,North America,55+,Non-binary,VoxWatch Pro,4,Helpful and quick response times.,Support
+VOX-10141,2026-03-22 22:56:20.715713,North America,25-34,Male,VoxWatch Pro,3,Good for basic tasks.,Performance
+VOX-10142,2026-03-20 08:50:20.715713,Asia-Pacific,55+,Non-binary,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10143,2026-03-21 00:29:20.715713,Europe,25-34,Female,VoxWatch Pro,3,Standard performance.,Performance
+VOX-10144,2026-02-05 02:08:20.715713,Middle East,55+,Female,VoxPhone Elite,4,A smart investment.,Price
+VOX-10145,2026-02-28 22:05:20.715713,Asia-Pacific,25-34,Prefer not to say,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10146,2026-02-17 02:09:20.715713,Europe,25-34,Female,VoxWatch Pro,1,Not worth the premium.,Price
+VOX-10147,2026-03-29 04:50:20.715713,North America,55+,Non-binary,VoxWatch Pro,1,Support was unhelpful.,Support
+VOX-10148,2026-03-11 05:38:20.715713,Middle East,25-34,Male,VoxTab Air,4,Helpful and quick response times.,Support
+VOX-10149,2026-03-07 13:44:20.715713,Middle East,45-54,Female,VoxTab Air,5,A smart investment.,Price
+VOX-10150,2026-02-21 03:23:20.715713,Europe,55+,Female,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10151,2026-03-31 00:24:20.715713,Asia-Pacific,35-44,Non-binary,VoxWatch Pro,4,Blazing fast speeds.,Performance
+VOX-10152,2026-02-24 03:24:20.715713,Latin America,45-54,Prefer not to say,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10153,2026-02-24 13:42:20.715713,Middle East,18-24,Non-binary,VoxPhone Elite,4,Seamless integration with my workflow.,Performance
+VOX-10154,2026-04-16 18:21:20.715713,Middle East,55+,Male,VoxTab Air,4,A smart investment.,Price
+VOX-10155,2026-03-02 17:41:20.715713,Europe,25-34,Male,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10156,2026-03-05 22:25:20.715713,Europe,35-44,Male,VoxPhone Elite,4,Premium feel and worth every penny.,Price
+VOX-10157,2026-02-20 12:37:20.715713,Europe,55+,Non-binary,VoxTab Air,4,The battery life is revolutionary.,Battery
+VOX-10158,2026-04-16 18:42:20.715713,Latin America,45-54,Male,VoxWatch Pro,3,Battery is average.,Battery
+VOX-10159,2026-02-08 22:07:20.715713,Asia-Pacific,18-24,Prefer not to say,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10160,2026-04-12 23:50:20.715713,Latin America,45-54,Non-binary,VoxWatch Pro,4,Premium feel and worth every penny.,Price
+VOX-10161,2026-02-08 11:29:20.715713,North America,18-24,Non-binary,VoxWatch Pro,1,Overpriced for what it offers.,Price
+VOX-10162,2026-03-05 21:30:20.715713,Middle East,18-24,Non-binary,VoxPhone Elite,5,A smart investment.,Price
+VOX-10163,2026-04-09 04:34:20.715713,North America,55+,Female,VoxTab Air,3,"It's okay, does the job.",Performance
+VOX-10164,2026-04-08 09:30:20.715713,Latin America,25-34,Male,VoxTab Air,3,Standard support quality.,Support
+VOX-10165,2026-01-28 16:52:20.715713,Asia-Pacific,55+,Female,VoxPhone Elite,5,A smart investment.,Price
+VOX-10166,2026-04-06 11:28:20.715713,Latin America,18-24,Non-binary,VoxWatch Pro,3,Took some time but solved.,Support
+VOX-10167,2026-04-16 14:08:20.715713,Europe,45-54,Prefer not to say,VoxPhone Elite,5,A smart investment.,Price
+VOX-10168,2026-03-01 19:29:20.715713,Europe,25-34,Prefer not to say,VoxWatch Pro,3,Standard battery performance.,Battery
+VOX-10169,2026-04-14 23:24:20.715713,Middle East,55+,Male,VoxWatch Pro,3,Standard battery performance.,Battery
+VOX-10170,2026-04-11 22:24:20.715713,Middle East,55+,Female,VoxWatch Pro,4,Great value for a flagship device.,Price
+VOX-10171,2026-02-17 02:40:20.715713,North America,55+,Male,VoxWatch Pro,2,Long wait times and no solution.,Support
+VOX-10172,2026-02-10 22:32:20.715713,Europe,35-44,Non-binary,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10173,2026-03-03 08:56:20.715713,Europe,25-34,Non-binary,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10174,2026-03-29 14:21:20.715713,Asia-Pacific,55+,Non-binary,VoxPhone Elite,4,Lasts all day even with heavy use.,Battery
+VOX-10175,2026-01-31 14:55:20.715713,Latin America,18-24,Prefer not to say,VoxTab Air,4,Incredible power management.,Battery
+VOX-10176,2026-02-13 04:38:20.715713,Europe,55+,Male,VoxPhone Elite,4,Incredible power management.,Battery
+VOX-10177,2026-02-01 05:15:20.715713,North America,55+,Female,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10178,2026-04-16 12:28:20.715713,Asia-Pacific,18-24,Male,VoxPhone Elite,4,Incredible power management.,Battery
+VOX-10179,2026-03-21 08:15:20.715713,North America,45-54,Non-binary,VoxWatch Pro,3,Standard battery performance.,Battery
+VOX-10180,2026-04-13 18:17:20.715713,Middle East,45-54,Male,VoxTab Air,3,Standard support quality.,Support
+VOX-10181,2026-03-02 14:19:20.715713,Latin America,25-34,Female,VoxWatch Pro,3,Good for basic tasks.,Performance
+VOX-10182,2026-02-19 16:51:20.715713,North America,18-24,Female,VoxTab Air,3,"It's okay, does the job.",Performance
+VOX-10183,2026-03-07 01:47:20.715713,North America,35-44,Non-binary,VoxWatch Pro,3,Regular market pricing.,Price
+VOX-10184,2026-01-28 20:44:20.715713,Latin America,45-54,Prefer not to say,VoxPhone Elite,4,Premium feel and worth every penny.,Price
+VOX-10185,2026-01-20 17:15:20.715713,North America,18-24,Prefer not to say,VoxPhone Elite,4,Blazing fast speeds.,Performance
+VOX-10186,2026-03-02 13:03:20.715713,North America,35-44,Prefer not to say,VoxTab Air,4,Helpful and quick response times.,Support
+VOX-10187,2026-02-11 11:15:20.715713,Europe,45-54,Prefer not to say,VoxWatch Pro,4,Seamless integration with my workflow.,Performance
+VOX-10188,2026-02-10 04:19:20.715713,Asia-Pacific,55+,Male,VoxTab Air,3,Good value for money but nothing special.,Price
+VOX-10189,2026-03-25 18:34:20.715713,Asia-Pacific,45-54,Female,VoxPhone Elite,5,A smart investment.,Price
+VOX-10190,2026-03-30 20:01:20.715713,Latin America,25-34,Male,VoxPhone Elite,4,Blazing fast speeds.,Performance
+VOX-10191,2026-01-30 12:35:20.715713,Europe,35-44,Female,VoxPhone Elite,5,Absolutely love the performance!,Performance
+VOX-10192,2026-02-15 21:34:20.715713,North America,45-54,Male,VoxWatch Pro,4,A smart investment.,Price
+VOX-10193,2026-03-29 07:29:20.715713,North America,18-24,Female,VoxPhone Elite,4,Absolutely love the performance!,Performance
+VOX-10194,2026-02-01 16:47:20.715713,Europe,45-54,Prefer not to say,VoxTab Air,3,Standard performance.,Performance
+VOX-10195,2026-01-26 02:30:20.715713,Asia-Pacific,45-54,Female,VoxPhone Elite,4,Blazing fast speeds.,Performance
+VOX-10196,2026-02-21 14:33:20.715713,Asia-Pacific,18-24,Male,VoxWatch Pro,3,Battery is average.,Battery
+VOX-10197,2026-03-19 06:15:20.715713,Europe,55+,Prefer not to say,VoxPhone Elite,4,Exceptional customer support experience.,Support
+VOX-10198,2026-03-17 08:02:20.715713,Asia-Pacific,35-44,Prefer not to say,VoxWatch Pro,1,Laggy and slow.,Performance
+VOX-10199,2026-02-15 05:54:20.715713,Europe,55+,Female,VoxPhone Elite,4,Exceptional customer support experience.,Support
+VOX-10200,2026-02-07 21:54:20.715713,Europe,45-54,Male,VoxTab Air,5,Exceptional customer support experience.,Support
+VOX-10201,2026-03-31 17:08:20.715713,Europe,25-34,Prefer not to say,VoxWatch Pro,3,Regular market pricing.,Price
+VOX-10202,2026-01-29 23:55:20.715713,Latin America,55+,Female,VoxTab Air,5,Absolutely love the performance!,Performance
+VOX-10203,2026-03-31 05:19:20.715713,Latin America,25-34,Male,VoxTab Air,4,The battery life is revolutionary.,Battery
+VOX-10204,2026-02-25 04:04:20.715713,Middle East,18-24,Female,VoxTab Air,3,Standard performance.,Performance
+VOX-10205,2026-04-11 04:01:20.715713,Asia-Pacific,18-24,Male,VoxWatch Pro,2,Extremely disappointed with the build.,Performance
+VOX-10206,2026-01-20 08:29:20.715713,North America,18-24,Non-binary,VoxTab Air,4,Incredible power management.,Battery
+VOX-10207,2026-02-11 00:19:20.715713,Europe,35-44,Male,VoxTab Air,4,Incredible power management.,Battery
+VOX-10208,2026-02-11 16:35:20.715713,North America,25-34,Non-binary,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10209,2026-03-03 04:39:20.715713,Europe,35-44,Male,VoxTab Air,3,Standard support quality.,Support
+VOX-10210,2026-03-23 17:15:20.715713,Latin America,45-54,Prefer not to say,VoxWatch Pro,1,Battery drains way too fast.,Battery
+VOX-10211,2026-03-21 07:25:20.715713,Middle East,45-54,Female,VoxWatch Pro,5,Lasts all day even with heavy use.,Battery
+VOX-10212,2026-02-15 17:45:20.715713,Middle East,18-24,Male,VoxTab Air,4,Helpful and quick response times.,Support
+VOX-10213,2026-03-12 18:02:20.715713,Latin America,55+,Male,VoxTab Air,4,Exceptional customer support experience.,Support
+VOX-10214,2026-01-27 00:10:20.715713,North America,18-24,Female,VoxTab Air,3,Took some time but solved.,Support
+VOX-10215,2026-02-28 00:47:20.715713,Asia-Pacific,45-54,Female,VoxPhone Elite,5,Absolutely love the performance!,Performance
+VOX-10216,2026-02-26 17:34:20.715713,Asia-Pacific,18-24,Male,VoxPhone Elite,5,A smart investment.,Price
+VOX-10217,2026-03-13 22:33:20.715713,Latin America,25-34,Male,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10218,2026-01-31 17:27:20.715713,Europe,18-24,Non-binary,VoxTab Air,3,Fairly priced.,Price
+VOX-10219,2026-03-24 10:32:20.715713,Asia-Pacific,35-44,Male,VoxTab Air,5,Lasts all day even with heavy use.,Battery
+VOX-10220,2026-02-09 20:12:20.715713,Middle East,25-34,Female,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10221,2026-04-17 01:08:20.715713,Europe,25-34,Male,VoxTab Air,4,Blazing fast speeds.,Performance
+VOX-10222,2026-02-26 09:43:20.715713,Asia-Pacific,45-54,Prefer not to say,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10223,2026-04-12 00:59:20.715713,North America,45-54,Prefer not to say,VoxWatch Pro,3,Battery is average.,Battery
+VOX-10224,2026-02-09 13:03:20.715713,Middle East,35-44,Female,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10225,2026-03-15 22:13:20.715713,Latin America,18-24,Prefer not to say,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10226,2026-03-18 06:12:20.715713,Middle East,45-54,Male,VoxWatch Pro,2,Laggy and slow.,Performance
+VOX-10227,2026-01-20 23:13:20.715713,Middle East,18-24,Male,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10228,2026-02-18 16:06:20.715713,Middle East,45-54,Non-binary,VoxTab Air,5,Seamless integration with my workflow.,Performance
+VOX-10229,2026-02-15 08:45:20.715713,Asia-Pacific,25-34,Female,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10230,2026-02-06 18:21:20.715713,Middle East,35-44,Prefer not to say,VoxPhone Elite,4,Lasts all day even with heavy use.,Battery
+VOX-10231,2026-04-06 19:15:20.715713,Europe,35-44,Non-binary,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10232,2026-01-25 08:30:20.715713,Middle East,55+,Female,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10233,2026-04-14 05:56:20.715713,Asia-Pacific,25-34,Female,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10234,2026-01-24 23:04:20.715713,Asia-Pacific,35-44,Female,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10235,2026-04-09 11:38:20.715713,Middle East,18-24,Male,VoxPhone Elite,4,Great value for a flagship device.,Price
+VOX-10236,2026-02-25 18:26:20.715713,Middle East,45-54,Female,VoxWatch Pro,2,Long wait times and no solution.,Support
+VOX-10237,2026-03-30 10:08:20.715713,Middle East,35-44,Prefer not to say,VoxPhone Elite,4,Lasts all day even with heavy use.,Battery
+VOX-10238,2026-03-26 23:34:20.715713,Asia-Pacific,35-44,Non-binary,VoxPhone Elite,4,Premium feel and worth every penny.,Price
+VOX-10239,2026-04-12 01:18:20.715713,Europe,25-34,Female,VoxTab Air,4,The battery life is revolutionary.,Battery
+VOX-10240,2026-04-08 20:58:20.715713,Latin America,55+,Male,VoxWatch Pro,3,Standard battery performance.,Battery
+VOX-10241,2026-04-06 03:26:20.715713,Asia-Pacific,18-24,Male,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10242,2026-01-20 01:11:20.715713,Asia-Pacific,45-54,Male,VoxPhone Elite,4,Premium feel and worth every penny.,Price
+VOX-10243,2026-03-08 12:14:20.715713,Europe,55+,Non-binary,VoxTab Air,3,Standard battery performance.,Battery
+VOX-10244,2026-01-27 09:08:20.715713,Latin America,25-34,Prefer not to say,VoxTab Air,4,Great value for a flagship device.,Price
+VOX-10245,2026-03-28 17:14:20.715713,Middle East,25-34,Non-binary,VoxPhone Elite,5,A smart investment.,Price
+VOX-10246,2026-03-14 11:32:20.715713,North America,45-54,Male,VoxWatch Pro,4,Helpful and quick response times.,Support
+VOX-10247,2026-04-19 07:34:20.715713,North America,55+,Male,VoxTab Air,4,Lasts all day even with heavy use.,Battery
+VOX-10248,2026-04-16 05:30:20.715713,Europe,18-24,Male,VoxTab Air,4,Incredible power management.,Battery
+VOX-10249,2026-04-09 08:14:20.715713,North America,45-54,Male,VoxTab Air,4,Incredible power management.,Battery
+VOX-10250,2026-03-07 19:13:20.715713,North America,55+,Female,VoxTab Air,5,Helpful and quick response times.,Support
+VOX-10251,2026-02-26 10:22:20.715713,North America,45-54,Prefer not to say,VoxTab Air,3,Good for basic tasks.,Performance
+VOX-10252,2026-02-10 05:44:20.715713,Middle East,18-24,Male,VoxWatch Pro,4,Exceptional customer support experience.,Support
+VOX-10253,2026-02-08 13:37:20.715713,Middle East,45-54,Female,VoxTab Air,5,Helpful and quick response times.,Support
+VOX-10254,2026-03-25 01:32:20.715713,Latin America,55+,Prefer not to say,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10255,2026-03-07 02:13:20.715713,Europe,35-44,Non-binary,VoxTab Air,5,Absolutely love the performance!,Performance
+VOX-10256,2026-03-14 15:19:20.715713,Middle East,25-34,Female,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10257,2026-04-11 06:11:20.715713,North America,25-34,Male,VoxWatch Pro,4,Great value for a flagship device.,Price
+VOX-10258,2026-02-10 10:51:20.715713,Asia-Pacific,55+,Prefer not to say,VoxPhone Elite,4,Seamless integration with my workflow.,Performance
+VOX-10259,2026-03-22 10:06:20.715713,North America,55+,Non-binary,VoxTab Air,4,Helpful and quick response times.,Support
+VOX-10260,2026-02-17 21:20:20.715713,Europe,18-24,Non-binary,VoxWatch Pro,3,Fairly priced.,Price
+VOX-10261,2026-03-13 05:21:20.715713,Europe,55+,Non-binary,VoxTab Air,4,Absolutely love the performance!,Performance
+VOX-10262,2026-01-29 00:42:20.715713,Middle East,25-34,Female,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10263,2026-04-07 04:10:20.715713,North America,18-24,Female,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10264,2026-01-24 04:49:20.715713,Middle East,45-54,Non-binary,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10265,2026-03-03 10:07:20.715713,Middle East,35-44,Female,VoxPhone Elite,4,Helpful and quick response times.,Support
+VOX-10266,2026-03-19 03:56:20.715713,Middle East,45-54,Non-binary,VoxWatch Pro,2,Frequent software glitches.,Performance
+VOX-10267,2026-04-18 14:10:20.715713,Latin America,35-44,Male,VoxTab Air,5,Premium feel and worth every penny.,Price
+VOX-10268,2026-04-06 22:31:20.715713,Middle East,18-24,Prefer not to say,VoxWatch Pro,4,Seamless integration with my workflow.,Performance
+VOX-10269,2026-02-10 17:27:20.715713,North America,18-24,Prefer not to say,VoxTab Air,3,Standard performance.,Performance
+VOX-10270,2026-03-28 13:52:20.715713,Europe,45-54,Male,VoxWatch Pro,1,Poor battery life compared to competitors.,Battery
+VOX-10271,2026-01-26 15:34:20.715713,North America,35-44,Prefer not to say,VoxTab Air,4,A smart investment.,Price
+VOX-10272,2026-02-26 16:29:20.715713,Europe,18-24,Male,VoxTab Air,3,Standard support quality.,Support
+VOX-10273,2026-03-13 08:27:20.715713,Asia-Pacific,25-34,Non-binary,VoxWatch Pro,3,Does the job but needs daily charging.,Battery
+VOX-10274,2026-03-11 03:21:20.715713,Asia-Pacific,18-24,Male,VoxWatch Pro,3,Battery is average.,Battery
+VOX-10275,2026-02-04 00:56:20.715713,Asia-Pacific,45-54,Prefer not to say,VoxPhone Elite,4,The battery life is revolutionary.,Battery
+VOX-10276,2026-02-19 21:10:20.715713,North America,35-44,Prefer not to say,VoxWatch Pro,5,Seamless integration with my workflow.,Performance
+VOX-10277,2026-02-27 00:02:20.715713,Latin America,35-44,Prefer not to say,VoxPhone Elite,5,A smart investment.,Price
+VOX-10278,2026-02-21 11:47:20.715713,Middle East,55+,Non-binary,VoxTab Air,5,Great value for a flagship device.,Price
+VOX-10279,2026-03-14 11:00:20.715713,Latin America,18-24,Prefer not to say,VoxPhone Elite,4,Great value for a flagship device.,Price
+VOX-10280,2026-03-25 00:20:20.715713,Middle East,35-44,Prefer not to say,VoxWatch Pro,4,Lasts all day even with heavy use.,Battery
+VOX-10281,2026-03-21 06:07:20.715713,Middle East,55+,Female,VoxWatch Pro,4,Exceptional customer support experience.,Support
+VOX-10282,2026-02-19 04:57:20.715713,Latin America,55+,Female,VoxPhone Elite,4,The battery life is revolutionary.,Battery
+VOX-10283,2026-02-22 08:08:20.715713,Middle East,35-44,Female,VoxWatch Pro,4,Absolutely love the performance!,Performance
+VOX-10284,2026-03-13 07:52:20.715713,Asia-Pacific,18-24,Male,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10285,2026-01-20 01:53:20.715713,Middle East,18-24,Female,VoxPhone Elite,5,Blazing fast speeds.,Performance
+VOX-10286,2026-03-06 01:47:20.715713,Europe,35-44,Female,VoxWatch Pro,4,Premium feel and worth every penny.,Price
+VOX-10287,2026-03-04 08:45:20.715713,Latin America,45-54,Female,VoxWatch Pro,1,Poor battery life compared to competitors.,Battery
+VOX-10288,2026-03-02 10:16:20.715713,Middle East,35-44,Male,VoxWatch Pro,3,Does the job but needs daily charging.,Battery
+VOX-10289,2026-03-04 11:35:20.715713,Middle East,55+,Female,VoxWatch Pro,3,Good value for money but nothing special.,Price
+VOX-10290,2026-02-22 18:16:20.715713,Middle East,25-34,Male,VoxTab Air,5,Great value for a flagship device.,Price
+VOX-10291,2026-02-06 02:52:20.715713,North America,18-24,Non-binary,VoxWatch Pro,1,Poor battery life compared to competitors.,Battery
+VOX-10292,2026-02-23 05:49:20.715713,Asia-Pacific,45-54,Female,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10293,2026-02-01 01:30:20.715713,North America,25-34,Prefer not to say,VoxPhone Elite,5,A smart investment.,Price
+VOX-10294,2026-01-27 03:34:20.715713,Asia-Pacific,35-44,Female,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10295,2026-03-26 21:41:20.715713,Europe,18-24,Non-binary,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10296,2026-04-16 01:26:20.715713,Middle East,45-54,Female,VoxWatch Pro,4,Exceptional customer support experience.,Support
+VOX-10297,2026-02-08 08:46:20.715713,Latin America,55+,Male,VoxWatch Pro,4,Helpful and quick response times.,Support
+VOX-10298,2026-03-21 03:20:20.715713,Europe,55+,Female,VoxWatch Pro,2,Battery drains way too fast.,Battery
+VOX-10299,2026-04-03 01:54:20.715713,Asia-Pacific,25-34,Non-binary,VoxTab Air,5,A smart investment.,Price
+VOX-10300,2026-03-27 21:05:20.715713,Middle East,45-54,Male,VoxWatch Pro,4,Incredible power management.,Battery
+VOX-10301,2026-02-25 12:16:20.715713,Latin America,25-34,Female,VoxPhone Elite,4,Exceptional customer support experience.,Support
+VOX-10302,2026-02-15 18:46:20.715713,North America,55+,Male,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10303,2026-04-12 00:20:20.715713,North America,45-54,Prefer not to say,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10304,2026-01-24 01:54:20.715713,Asia-Pacific,25-34,Female,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10305,2026-02-10 06:56:20.715713,Europe,45-54,Prefer not to say,VoxWatch Pro,3,"It's okay, does the job.",Performance
+VOX-10306,2026-03-28 03:15:20.715713,Europe,55+,Non-binary,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10307,2026-03-21 13:11:20.715713,North America,35-44,Female,VoxTab Air,4,The battery life is revolutionary.,Battery
+VOX-10308,2026-04-06 07:35:20.715713,North America,55+,Prefer not to say,VoxTab Air,4,A smart investment.,Price
+VOX-10309,2026-01-24 15:07:20.715713,Latin America,55+,Female,VoxWatch Pro,5,Absolutely love the performance!,Performance
+VOX-10310,2026-03-22 07:33:20.715713,Asia-Pacific,18-24,Prefer not to say,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10311,2026-02-20 12:51:20.715713,Europe,55+,Non-binary,VoxPhone Elite,5,Blazing fast speeds.,Performance
+VOX-10312,2026-01-28 01:49:20.715713,Latin America,35-44,Prefer not to say,VoxWatch Pro,2,Laggy and slow.,Performance
+VOX-10313,2026-03-31 23:29:20.715713,Europe,35-44,Female,VoxWatch Pro,4,Seamless integration with my workflow.,Performance
+VOX-10314,2026-03-02 22:05:20.715713,Latin America,55+,Female,VoxTab Air,4,Premium feel and worth every penny.,Price
+VOX-10315,2026-03-23 00:06:20.715713,Asia-Pacific,55+,Male,VoxPhone Elite,4,Absolutely love the performance!,Performance
+VOX-10316,2026-02-06 09:34:20.715713,Latin America,45-54,Non-binary,VoxWatch Pro,3,Standard performance.,Performance
+VOX-10317,2026-03-21 01:34:20.715713,Europe,45-54,Prefer not to say,VoxWatch Pro,4,The battery life is revolutionary.,Battery
+VOX-10318,2026-03-20 14:20:20.715713,Latin America,25-34,Prefer not to say,VoxTab Air,4,The battery life is revolutionary.,Battery
+VOX-10319,2026-04-10 04:36:20.715713,Latin America,45-54,Female,VoxTab Air,3,Took some time but solved.,Support
+VOX-10320,2026-03-28 05:45:20.715713,Europe,18-24,Male,VoxTab Air,5,Incredible power management.,Battery
+VOX-10321,2026-04-03 17:08:20.715713,Europe,55+,Male,VoxWatch Pro,4,Blazing fast speeds.,Performance
+VOX-10322,2026-03-31 05:31:20.715713,Europe,18-24,Male,VoxTab Air,4,Premium feel and worth every penny.,Price
+VOX-10323,2026-04-19 06:19:20.715713,North America,55+,Female,VoxTab Air,5,Incredible power management.,Battery
+VOX-10324,2026-02-24 09:34:20.715713,Middle East,35-44,Prefer not to say,VoxTab Air,4,Exceptional customer support experience.,Support
+VOX-10325,2026-03-31 01:03:20.715713,Asia-Pacific,35-44,Male,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10326,2026-03-23 12:44:20.715713,North America,45-54,Female,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10327,2026-02-10 10:26:20.715713,Middle East,45-54,Non-binary,VoxPhone Elite,4,Great value for a flagship device.,Price
+VOX-10328,2026-02-25 04:14:20.715713,Asia-Pacific,35-44,Male,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10329,2026-04-06 14:49:20.715713,Latin America,18-24,Female,VoxWatch Pro,2,Not worth the premium.,Price
+VOX-10330,2026-03-04 02:31:20.715713,Europe,18-24,Non-binary,VoxWatch Pro,3,Standard support quality.,Support
+VOX-10331,2026-02-28 19:25:20.715713,Asia-Pacific,35-44,Non-binary,VoxPhone Elite,5,Blazing fast speeds.,Performance
+VOX-10332,2026-03-20 12:52:20.715713,Europe,25-34,Prefer not to say,VoxWatch Pro,1,Needs constant charging.,Battery
+VOX-10333,2026-01-23 22:44:20.715713,Middle East,25-34,Male,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10334,2026-03-17 14:31:20.715713,Latin America,35-44,Male,VoxWatch Pro,1,Overpriced for what it offers.,Price
+VOX-10335,2026-01-26 13:31:20.715713,North America,18-24,Non-binary,VoxWatch Pro,2,Laggy and slow.,Performance
+VOX-10336,2026-01-29 09:30:20.715713,Middle East,35-44,Male,VoxWatch Pro,4,A smart investment.,Price
+VOX-10337,2026-02-25 18:03:20.715713,Asia-Pacific,35-44,Non-binary,VoxPhone Elite,4,Seamless integration with my workflow.,Performance
+VOX-10338,2026-02-01 01:29:20.715713,North America,45-54,Prefer not to say,VoxWatch Pro,4,Lasts all day even with heavy use.,Battery
+VOX-10339,2026-03-23 02:59:20.715713,Asia-Pacific,25-34,Prefer not to say,VoxPhone Elite,4,Lasts all day even with heavy use.,Battery
+VOX-10340,2026-02-26 15:57:20.715713,Middle East,45-54,Non-binary,VoxTab Air,5,Exceptional customer support experience.,Support
+VOX-10341,2026-04-06 17:47:20.715713,Europe,45-54,Prefer not to say,VoxWatch Pro,2,Long wait times and no solution.,Support
+VOX-10342,2026-03-31 10:33:20.715713,Latin America,35-44,Male,VoxWatch Pro,3,"It's okay, does the job.",Performance
+VOX-10343,2026-04-01 23:31:20.715713,Asia-Pacific,25-34,Prefer not to say,VoxTab Air,4,Absolutely love the performance!,Performance
+VOX-10344,2026-02-20 12:31:20.715713,Latin America,45-54,Female,VoxTab Air,3,Does the job but needs daily charging.,Battery
+VOX-10345,2026-01-28 08:01:20.715713,Asia-Pacific,45-54,Male,VoxTab Air,5,Exceptional customer support experience.,Support
+VOX-10346,2026-01-26 04:34:20.715713,Europe,35-44,Non-binary,VoxWatch Pro,5,Lasts all day even with heavy use.,Battery
+VOX-10347,2026-02-01 06:25:20.715713,Latin America,35-44,Non-binary,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10348,2026-03-21 00:34:20.715713,Middle East,18-24,Male,VoxTab Air,5,Premium feel and worth every penny.,Price
+VOX-10349,2026-03-06 21:25:20.715713,Latin America,18-24,Non-binary,VoxPhone Elite,5,A smart investment.,Price
+VOX-10350,2026-04-15 19:07:20.715713,Latin America,45-54,Male,VoxTab Air,5,Incredible power management.,Battery
+VOX-10351,2026-03-26 15:42:20.715713,Asia-Pacific,25-34,Female,VoxWatch Pro,1,Long wait times and no solution.,Support
+VOX-10352,2026-01-21 22:35:20.715713,Middle East,35-44,Female,VoxWatch Pro,5,The battery life is revolutionary.,Battery
+VOX-10353,2026-02-19 16:40:20.715713,Europe,25-34,Prefer not to say,VoxPhone Elite,4,Exceptional customer support experience.,Support
+VOX-10354,2026-01-31 11:37:20.715713,Asia-Pacific,45-54,Non-binary,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10355,2026-03-30 12:22:20.715713,North America,25-34,Female,VoxTab Air,5,Absolutely love the performance!,Performance
+VOX-10356,2026-03-20 23:50:20.715713,Asia-Pacific,25-34,Prefer not to say,VoxPhone Elite,5,A smart investment.,Price
+VOX-10357,2026-04-16 17:50:20.715713,Europe,35-44,Non-binary,VoxPhone Elite,4,Blazing fast speeds.,Performance
+VOX-10358,2026-03-17 15:37:20.715713,Asia-Pacific,18-24,Female,VoxTab Air,3,Fairly priced.,Price
+VOX-10359,2026-03-26 01:49:20.715713,Middle East,25-34,Male,VoxPhone Elite,4,Helpful and quick response times.,Support
+VOX-10360,2026-02-18 07:57:20.715713,Latin America,35-44,Male,VoxWatch Pro,2,Frequent software glitches.,Performance
+VOX-10361,2026-03-23 02:41:20.715713,North America,55+,Non-binary,VoxTab Air,4,A smart investment.,Price
+VOX-10362,2026-02-23 11:30:20.715713,North America,35-44,Male,VoxWatch Pro,2,Frequent software glitches.,Performance
+VOX-10363,2026-04-12 06:20:20.715713,North America,25-34,Male,VoxWatch Pro,2,Frequent software glitches.,Performance
+VOX-10364,2026-03-07 01:50:20.715713,Latin America,55+,Non-binary,VoxPhone Elite,4,Absolutely love the performance!,Performance
+VOX-10365,2026-01-30 22:44:20.715713,Asia-Pacific,55+,Prefer not to say,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10366,2026-04-16 16:21:20.715713,Asia-Pacific,35-44,Male,VoxPhone Elite,4,The battery life is revolutionary.,Battery
+VOX-10367,2026-01-26 19:58:20.715713,North America,18-24,Non-binary,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10368,2026-01-22 16:00:20.715713,Latin America,18-24,Non-binary,VoxPhone Elite,4,Exceptional customer support experience.,Support
+VOX-10369,2026-03-15 13:56:20.715713,Asia-Pacific,35-44,Male,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10370,2026-02-16 17:08:20.715713,Asia-Pacific,45-54,Non-binary,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10371,2026-01-22 04:24:20.715713,Europe,25-34,Prefer not to say,VoxWatch Pro,3,Does the job but needs daily charging.,Battery
+VOX-10372,2026-04-15 19:54:20.715713,Europe,45-54,Male,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10373,2026-03-29 09:53:20.715713,North America,18-24,Male,VoxWatch Pro,3,Standard support quality.,Support
+VOX-10374,2026-02-26 17:29:20.715713,Asia-Pacific,35-44,Female,VoxTab Air,5,Helpful and quick response times.,Support
+VOX-10375,2026-04-12 10:11:20.715713,Europe,35-44,Non-binary,VoxWatch Pro,3,Standard support quality.,Support
+VOX-10376,2026-01-25 18:57:20.715713,North America,18-24,Male,VoxWatch Pro,3,"It's okay, does the job.",Performance
+VOX-10377,2026-04-07 19:06:20.715713,Europe,18-24,Female,VoxTab Air,5,Incredible power management.,Battery
+VOX-10378,2026-02-27 05:09:20.715713,Europe,25-34,Female,VoxWatch Pro,3,Standard battery performance.,Battery
+VOX-10379,2026-03-07 18:49:20.715713,Europe,18-24,Prefer not to say,VoxTab Air,5,Blazing fast speeds.,Performance
+VOX-10380,2026-04-16 14:50:20.715713,Europe,18-24,Male,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10381,2026-03-30 20:57:20.715713,Latin America,25-34,Non-binary,VoxWatch Pro,2,Long wait times and no solution.,Support
+VOX-10382,2026-03-25 17:25:20.715713,North America,18-24,Non-binary,VoxTab Air,5,The battery life is revolutionary.,Battery
+VOX-10383,2026-02-25 16:29:20.715713,Asia-Pacific,55+,Female,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10384,2026-02-20 20:58:20.715713,Latin America,45-54,Prefer not to say,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10385,2026-03-09 06:18:20.715713,Middle East,45-54,Prefer not to say,VoxWatch Pro,3,Regular market pricing.,Price
+VOX-10386,2026-04-04 21:28:20.715713,North America,18-24,Prefer not to say,VoxTab Air,4,Absolutely love the performance!,Performance
+VOX-10387,2026-03-15 15:46:20.715713,Middle East,18-24,Female,VoxWatch Pro,2,Laggy and slow.,Performance
+VOX-10388,2026-02-10 23:16:20.715713,Middle East,45-54,Male,VoxWatch Pro,1,Support was unhelpful.,Support
+VOX-10389,2026-01-31 13:33:20.715713,Asia-Pacific,45-54,Male,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10390,2026-03-30 13:31:20.715713,Europe,18-24,Male,VoxWatch Pro,5,Seamless integration with my workflow.,Performance
+VOX-10391,2026-02-16 23:42:20.715713,North America,25-34,Non-binary,VoxPhone Elite,5,Absolutely love the performance!,Performance
+VOX-10392,2026-01-25 18:46:20.715713,North America,25-34,Prefer not to say,VoxPhone Elite,5,A smart investment.,Price
+VOX-10393,2026-02-19 13:39:20.715713,Middle East,18-24,Female,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10394,2026-03-19 04:20:20.715713,Europe,18-24,Prefer not to say,VoxWatch Pro,5,Absolutely love the performance!,Performance
+VOX-10395,2026-02-14 09:14:20.715713,North America,45-54,Prefer not to say,VoxWatch Pro,4,Blazing fast speeds.,Performance
+VOX-10396,2026-02-20 07:13:20.715713,Middle East,55+,Male,VoxWatch Pro,3,Standard battery performance.,Battery
+VOX-10397,2026-03-22 06:52:20.715713,Europe,18-24,Prefer not to say,VoxTab Air,4,Incredible power management.,Battery
+VOX-10398,2026-02-11 10:58:20.715713,North America,45-54,Male,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10399,2026-01-22 16:55:20.715713,Asia-Pacific,18-24,Female,VoxPhone Elite,4,Helpful and quick response times.,Support
+VOX-10400,2026-02-09 17:48:20.715713,Latin America,35-44,Female,VoxTab Air,5,Premium feel and worth every penny.,Price
+VOX-10401,2026-02-26 14:49:20.715713,Middle East,35-44,Prefer not to say,VoxWatch Pro,1,Frequent software glitches.,Performance
+VOX-10402,2026-03-26 19:46:20.715713,Europe,18-24,Female,VoxTab Air,4,Great value for a flagship device.,Price
+VOX-10403,2026-01-30 03:28:20.715713,Middle East,55+,Non-binary,VoxTab Air,5,Incredible power management.,Battery
+VOX-10404,2026-03-02 10:14:20.715713,Latin America,35-44,Prefer not to say,VoxPhone Elite,4,Lasts all day even with heavy use.,Battery
+VOX-10405,2026-03-12 02:25:20.715713,Latin America,45-54,Male,VoxWatch Pro,3,Fairly priced.,Price
+VOX-10406,2026-03-29 16:47:20.715713,Middle East,45-54,Prefer not to say,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10407,2026-03-04 17:40:20.715713,North America,25-34,Male,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10408,2026-02-24 02:44:20.715713,North America,35-44,Non-binary,VoxTab Air,4,The battery life is revolutionary.,Battery
+VOX-10409,2026-03-01 05:07:20.715713,North America,55+,Non-binary,VoxTab Air,4,Premium feel and worth every penny.,Price
+VOX-10410,2026-02-20 14:24:20.715713,Asia-Pacific,25-34,Prefer not to say,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10411,2026-03-04 09:02:20.715713,North America,35-44,Male,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10412,2026-01-26 23:08:20.715713,Middle East,35-44,Non-binary,VoxPhone Elite,4,Lasts all day even with heavy use.,Battery
+VOX-10413,2026-03-19 10:40:20.715713,North America,55+,Male,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10414,2026-02-24 21:35:20.715713,Middle East,45-54,Female,VoxWatch Pro,3,Standard battery performance.,Battery
+VOX-10415,2026-03-31 03:37:20.715713,North America,55+,Female,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10416,2026-01-30 10:06:20.715713,Middle East,18-24,Female,VoxPhone Elite,4,Blazing fast speeds.,Performance
+VOX-10417,2026-03-26 06:20:20.715713,North America,25-34,Non-binary,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10418,2026-04-14 13:23:20.715713,North America,55+,Female,VoxTab Air,4,Absolutely love the performance!,Performance
+VOX-10419,2026-04-16 21:10:20.715713,Middle East,45-54,Male,VoxTab Air,5,Incredible power management.,Battery
+VOX-10420,2026-03-08 23:42:20.715713,Europe,45-54,Female,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10421,2026-01-20 13:38:20.715713,North America,25-34,Prefer not to say,VoxPhone Elite,4,Blazing fast speeds.,Performance
+VOX-10422,2026-02-08 09:45:20.715713,Asia-Pacific,55+,Non-binary,VoxWatch Pro,2,Support was unhelpful.,Support
+VOX-10423,2026-02-16 09:08:20.715713,Middle East,35-44,Non-binary,VoxTab Air,4,A smart investment.,Price
+VOX-10424,2026-03-20 05:49:20.715713,Europe,25-34,Female,VoxTab Air,5,The battery life is revolutionary.,Battery
+VOX-10425,2026-02-26 09:47:20.715713,Asia-Pacific,45-54,Non-binary,VoxTab Air,3,Good for basic tasks.,Performance
+VOX-10426,2026-04-02 10:38:20.715713,Latin America,25-34,Non-binary,VoxPhone Elite,5,Exceptional customer support experience.,Support
+VOX-10427,2026-02-23 14:01:20.715713,Asia-Pacific,45-54,Male,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10428,2026-03-24 18:28:20.715713,Europe,25-34,Prefer not to say,VoxTab Air,5,Premium feel and worth every penny.,Price
+VOX-10429,2026-02-09 20:59:20.715713,Europe,18-24,Prefer not to say,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10430,2026-03-30 21:12:20.715713,Europe,18-24,Prefer not to say,VoxTab Air,5,A smart investment.,Price
+VOX-10431,2026-02-01 10:22:20.715713,North America,35-44,Non-binary,VoxWatch Pro,2,Battery drains way too fast.,Battery
+VOX-10432,2026-04-03 02:07:20.715713,Europe,35-44,Prefer not to say,VoxTab Air,4,Great value for a flagship device.,Price
+VOX-10433,2026-02-13 17:26:20.715713,North America,25-34,Male,VoxTab Air,4,Lasts all day even with heavy use.,Battery
+VOX-10434,2026-03-01 13:44:20.715713,Asia-Pacific,18-24,Prefer not to say,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10435,2026-03-19 23:36:20.715713,Latin America,45-54,Prefer not to say,VoxWatch Pro,3,Took some time but solved.,Support
+VOX-10436,2026-02-23 03:25:20.715713,Asia-Pacific,18-24,Female,VoxPhone Elite,4,Great value for a flagship device.,Price
+VOX-10437,2026-02-12 08:10:20.715713,Middle East,35-44,Female,VoxTab Air,3,Battery is average.,Battery
+VOX-10438,2026-04-05 12:52:20.715713,Europe,18-24,Non-binary,VoxWatch Pro,3,Good value for money but nothing special.,Price
+VOX-10439,2026-02-16 06:57:20.715713,Europe,18-24,Female,VoxTab Air,5,Premium feel and worth every penny.,Price
+VOX-10440,2026-04-07 05:22:20.715713,Middle East,35-44,Non-binary,VoxTab Air,4,Great value for a flagship device.,Price
+VOX-10441,2026-03-16 12:33:20.715713,Europe,45-54,Non-binary,VoxWatch Pro,5,Absolutely love the performance!,Performance
+VOX-10442,2026-02-28 10:34:20.715713,Asia-Pacific,55+,Prefer not to say,VoxPhone Elite,4,Seamless integration with my workflow.,Performance
+VOX-10443,2026-03-22 03:06:20.715713,Latin America,35-44,Female,VoxTab Air,3,Does the job but needs daily charging.,Battery
+VOX-10444,2026-02-26 23:29:20.715713,Middle East,45-54,Female,VoxWatch Pro,5,Lasts all day even with heavy use.,Battery
+VOX-10445,2026-02-01 10:09:20.715713,Latin America,25-34,Prefer not to say,VoxTab Air,3,Standard battery performance.,Battery
+VOX-10446,2026-02-27 13:13:20.715713,Europe,55+,Non-binary,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10447,2026-04-03 17:17:20.715713,North America,55+,Male,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10448,2026-01-29 18:33:20.715713,Middle East,55+,Prefer not to say,VoxTab Air,4,Seamless integration with my workflow.,Performance
+VOX-10449,2026-02-20 14:05:20.715713,Asia-Pacific,25-34,Female,VoxPhone Elite,4,Absolutely love the performance!,Performance
+VOX-10450,2026-01-23 03:05:20.715713,Europe,45-54,Non-binary,VoxTab Air,4,Lasts all day even with heavy use.,Battery
+VOX-10451,2026-02-02 01:46:20.715713,Asia-Pacific,45-54,Non-binary,VoxPhone Elite,5,A smart investment.,Price
+VOX-10452,2026-03-06 14:13:20.715713,Latin America,35-44,Male,VoxTab Air,4,Seamless integration with my workflow.,Performance
+VOX-10453,2026-02-20 02:48:20.715713,North America,45-54,Prefer not to say,VoxTab Air,5,Seamless integration with my workflow.,Performance
+VOX-10454,2026-02-10 04:41:20.715713,Asia-Pacific,35-44,Prefer not to say,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10455,2026-01-27 10:45:20.715713,Latin America,25-34,Prefer not to say,VoxTab Air,4,Great value for a flagship device.,Price
+VOX-10456,2026-02-10 18:43:20.715713,North America,25-34,Prefer not to say,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10457,2026-03-25 21:29:20.715713,Middle East,18-24,Non-binary,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10458,2026-03-05 06:04:20.715713,Europe,18-24,Female,VoxTab Air,4,Absolutely love the performance!,Performance
+VOX-10459,2026-03-18 16:22:20.715713,Latin America,25-34,Male,VoxWatch Pro,3,Good for basic tasks.,Performance
+VOX-10460,2026-02-06 07:27:20.715713,Latin America,35-44,Non-binary,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10461,2026-02-15 21:00:20.715713,Middle East,55+,Prefer not to say,VoxPhone Elite,5,Great value for a flagship device.,Price
+VOX-10462,2026-01-21 17:13:20.715713,Europe,25-34,Male,VoxWatch Pro,1,Laggy and slow.,Performance
+VOX-10463,2026-03-27 03:38:20.715713,Europe,55+,Male,VoxWatch Pro,1,Not worth the premium.,Price
+VOX-10464,2026-04-05 19:40:20.715713,Europe,25-34,Prefer not to say,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10465,2026-03-30 08:58:20.715713,Latin America,45-54,Female,VoxWatch Pro,5,Helpful and quick response times.,Support
+VOX-10466,2026-02-18 11:33:20.715713,Asia-Pacific,18-24,Female,VoxPhone Elite,5,Seamless integration with my workflow.,Performance
+VOX-10467,2026-02-28 22:01:20.715713,Middle East,18-24,Non-binary,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10468,2026-03-18 11:08:20.715713,Asia-Pacific,25-34,Prefer not to say,VoxPhone Elite,5,Incredible power management.,Battery
+VOX-10469,2026-02-03 10:23:20.715713,Middle East,35-44,Male,VoxPhone Elite,5,Blazing fast speeds.,Performance
+VOX-10470,2026-03-12 01:33:20.715713,Middle East,55+,Female,VoxWatch Pro,4,Great value for a flagship device.,Price
+VOX-10471,2026-03-17 11:51:20.715713,Asia-Pacific,18-24,Male,VoxWatch Pro,4,Absolutely love the performance!,Performance
+VOX-10472,2026-04-04 15:20:20.715713,Asia-Pacific,45-54,Female,VoxTab Air,5,Great value for a flagship device.,Price
+VOX-10473,2026-04-04 18:25:20.715713,Asia-Pacific,18-24,Male,VoxPhone Elite,4,Exceptional customer support experience.,Support
+VOX-10474,2026-03-20 18:05:20.715713,Europe,35-44,Female,VoxPhone Elite,5,Absolutely love the performance!,Performance
+VOX-10475,2026-03-24 00:30:20.715713,North America,55+,Prefer not to say,VoxWatch Pro,3,Standard support quality.,Support
+VOX-10476,2026-04-16 02:57:20.715713,Europe,18-24,Male,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10477,2026-03-23 09:44:20.715713,Latin America,45-54,Non-binary,VoxPhone Elite,5,Lasts all day even with heavy use.,Battery
+VOX-10478,2026-02-27 10:45:20.715713,Latin America,35-44,Prefer not to say,VoxWatch Pro,5,Blazing fast speeds.,Performance
+VOX-10479,2026-01-21 23:52:20.715713,Europe,35-44,Non-binary,VoxWatch Pro,2,Overpriced for what it offers.,Price
+VOX-10480,2026-04-17 00:50:20.715713,Latin America,55+,Non-binary,VoxWatch Pro,3,Good for basic tasks.,Performance
+VOX-10481,2026-03-13 22:00:20.715713,Latin America,45-54,Non-binary,VoxWatch Pro,1,Long wait times and no solution.,Support
+VOX-10482,2026-01-27 01:45:20.715713,Middle East,18-24,Prefer not to say,VoxWatch Pro,4,A smart investment.,Price
+VOX-10483,2026-04-01 02:25:20.715713,Asia-Pacific,35-44,Male,VoxPhone Elite,5,The battery life is revolutionary.,Battery
+VOX-10484,2026-04-01 04:15:20.715713,Latin America,18-24,Prefer not to say,VoxTab Air,4,The battery life is revolutionary.,Battery
+VOX-10485,2026-02-11 03:04:20.715713,Europe,45-54,Non-binary,VoxWatch Pro,4,Blazing fast speeds.,Performance
+VOX-10486,2026-01-31 12:35:20.715713,Europe,18-24,Female,VoxWatch Pro,4,Absolutely love the performance!,Performance
+VOX-10487,2026-02-21 18:25:20.715713,Europe,55+,Male,VoxTab Air,4,Absolutely love the performance!,Performance
+VOX-10488,2026-03-13 20:11:20.715713,Latin America,18-24,Female,VoxWatch Pro,4,The battery life is revolutionary.,Battery
+VOX-10489,2026-03-20 13:56:20.715713,North America,25-34,Female,VoxTab Air,3,Took some time but solved.,Support
+VOX-10490,2026-02-25 10:21:20.715713,Latin America,35-44,Female,VoxTab Air,4,Absolutely love the performance!,Performance
+VOX-10491,2026-02-02 19:20:20.715713,Latin America,45-54,Male,VoxPhone Elite,5,Premium feel and worth every penny.,Price
+VOX-10492,2026-04-09 11:38:20.715713,North America,18-24,Non-binary,VoxWatch Pro,4,Exceptional customer support experience.,Support
+VOX-10493,2026-01-27 18:18:20.715713,Europe,18-24,Male,VoxWatch Pro,4,Lasts all day even with heavy use.,Battery
+VOX-10494,2026-03-15 07:14:20.715713,Europe,18-24,Non-binary,VoxWatch Pro,3,Standard performance.,Performance
+VOX-10495,2026-04-05 05:50:20.715713,North America,25-34,Male,VoxTab Air,4,Blazing fast speeds.,Performance
+VOX-10496,2026-02-18 20:56:20.715713,Europe,35-44,Male,VoxWatch Pro,2,Laggy and slow.,Performance
+VOX-10497,2026-04-10 12:01:20.715713,Asia-Pacific,18-24,Female,VoxPhone Elite,5,Helpful and quick response times.,Support
+VOX-10498,2026-03-31 19:34:20.715713,Middle East,45-54,Female,VoxWatch Pro,5,Lasts all day even with heavy use.,Battery
+VOX-10499,2026-03-30 20:13:20.715713,Europe,55+,Prefer not to say,VoxTab Air,3,Does the job but needs daily charging.,Battery
