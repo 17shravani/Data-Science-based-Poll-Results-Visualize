@@ -50,7 +50,7 @@ VoxIntel-Opinion-AI/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/VoxIntel-Opinion-AI.git
+git clone https://github.com/17shravani/Data-Science-based-Poll-Results-Visualize.git
 cd VoxIntel-Opinion-AI
 ```
 
